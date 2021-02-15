@@ -1,0 +1,25 @@
+body, footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text text-align: center;
+}
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+h2 {
+    color: aquamarine;
+    font-size: 16px;
+}
+h3 {
+    font-weight: 300;
+    font-size: 42px;
+}
+p {
+    font-size: 21px;
+    color: gray;
+}
+h4 {
+    color: gray
+}
